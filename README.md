@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-Repositorio de prueba del modulo 2
+Prueba de como crear y clonar un repositorio
